@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @muawaw (Muhammad Qowindra / Raihan)
+- 👋 Hi, I’m @muawaw (Muhammad Raihan Gifari Qowindra)
 - 💼 I’m an Application Developer specializing in SAP ABAP Development and Python Automation.
 - 🎓 I'm currently pursuing my Master's Degree, majoring in a Master of Data Science.
 - 👀 I’m interested in Enterprise System Integration, Core Backend Engineering, and Data Science workflows.
